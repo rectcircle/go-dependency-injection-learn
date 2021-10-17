@@ -1,0 +1,6 @@
+{
+	"gopls": {
+		"buildFlags": ["-tags=wireinject"]
+	},
+	"go.inferGopath": false,
+}
